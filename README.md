@@ -27,11 +27,12 @@ To replicate the results of our air quality analysis and prediction project, fol
     git clone https://github.com/nonkloq/skillup-ADS.git
     ```
 
-2. **Set Up the Environment:** Ensure you have the required Python environment set up. You can create a virtual environment and install the necessary dependencies by running:
+2. **Set Up the Environment:** Ensure you have the required Python environment set up (Python >= 3.10). You can create a virtual environment and install the necessary dependencies by running:
     ```
     pip install -r requirements.txt
     ```
 
-3. **Run all and Explore The IPY Notebook:** Open and run all the cells in the this notebook [aq-analysis.ipynb](https://github.com/nonkloq/skillup-ADS/blob/main/aq-analysis.ipynb) to reproduce the data analysis, visualization, and predictive modeling. Make sure to follow the instructions and comments within the notebook for guidance.
+3. **Run all and Explore The IPY Notebook:** Open and run all the cells in this notebook [aq-analysis.ipynb](https://github.com/nonkloq/skillup-ADS/blob/main/aq-analysis.ipynb) to reproduce the data analysis, visualizations, and predictive model. Make sure to follow the instructions and comments within the notebook for guidance.
 
 By following these steps, you can replicate our air quality analysis and prediction results and further explore the data and models to gain valuable insights into air quality in Tamil Nadu.
+
