@@ -13,8 +13,8 @@ Skill Up Applied Data Science Course Project, Project 9
 ## Project Status 
 | Task                 | Status     |
 |----------------------|------------|
-| Visualization        | Completed |
-| Predictive Model     | Completed |
+| Visualization        | Done |
+| Predictive Model     | Done |
 | Documentation        | Not Done  |
 | Insights & Findings | Not Done |
 
