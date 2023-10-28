@@ -10,13 +10,6 @@ Skill Up Applied Data Science Course Project, Project 9
 
 **Geospatial Heatmap Visualization:** [geo_spatial_aq_heatmap.html](https://github.com/nonkloq/skillup-ADS/blob/main/geo_spatial_aq_heatmap.html).
 
-## Project Status 
-| Task                 | Status     |
-|----------------------|------------|
-| Visualization        | Done |
-| Predictive Model     | Done |
-| Documentation        | Not Done  |
-| Insights & Findings | Not Done |
 
 ## Replicating the Results
 
