@@ -32,7 +32,7 @@ Skill Up Applied Data Science Course Project, Project 9
 
 To replicate the results follow these steps:
 
-1. **Clone the Repository:** Clone our project repository to your local machine using the following command:
+1. **Clone the Repository:** Clone this project repository to your local machine using the following command:
     ```bash
     git clone https://github.com/nonkloq/skillup-ADS.git
     ```
