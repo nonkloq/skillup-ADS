@@ -46,5 +46,5 @@ To replicate the results follow these steps:
 
 3. **Run all and Explore The IPython Notebook:** Open and run all the cells in this notebook [aq-analysis.ipynb](https://github.com/nonkloq/skillup-ADS/blob/main/aq-analysis.ipynb) to reproduce the data analysis, visualizations, and predictive model. Make sure to follow the instructions and comments within the notebook for guidance.
 
-By following these steps, you can replicate our air quality analysis and prediction results and further explore the data and models to gain valuable insights into air quality in Tamil Nadu.
+By following these steps, you can replicate this air quality analysis and prediction results.
 
