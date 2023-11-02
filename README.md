@@ -38,13 +38,26 @@ To replicate the results follow these steps:
     ```
 
 2. **Set Up the Environment:** Ensure you have the required Python environment set up (Python >= 3.10). You can create a virtual environment and install the necessary dependencies by running:
+    
+    For Linux & macOS:
     ```bash
     python -m venv tmpenv
     source tmpenv/bin/activate
     pip install -r requirements.txt
     ```
+    For Windows:
+    ```
+    python -m venv tmpenv
+    .\tmpenv\Scripts\activate
+    pip install -r requirements.txt
+    ```
 
-3. **Run all and Explore The IPython Notebook:** Open and run all the cells in this notebook [aq-analysis.ipynb](https://github.com/nonkloq/skillup-ADS/blob/main/aq-analysis.ipynb) to reproduce the data analysis, visualizations, and predictive model. Make sure to follow the instructions and comments within the notebook for guidance.
+3. **Run all and Explore The IPython Notebook:** Navigate to the project directory 'skillup-ADS' and launch the Jupyter Notebook to explore the analysis and predictive model. Use the following command: 
+    ```bash
+    cd skillup-ADS
+    python -m jupyter notebook aq-analysis.ipynb
+    ```
+    Ensure to select the appropriate kernel 'Python (Ipykernel)' before running the cells. Click on the 'Run' tab and select 'Run All Cells' within the notebook '[aq-analysis.ipynb](https://github.com/nonkloq/skillup-ADS/blob/main/aq-analysis.ipynb)' to reproduce the data analysis, visualizations, and predictive models. Make sure to follow the instructions and comments within the notebook for guidance.
 
 By following these steps, you can replicate this air quality analysis and prediction results.
 
