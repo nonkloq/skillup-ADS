@@ -22,7 +22,7 @@ Skill Up Applied Data Science Course Project, Project 9
 **Phase Wise Project Submission Documents**: [submission_files](https://github.com/nonkloq/skillup-ADS/blob/main/submission_files)
 - Phase1: Problem defenition and design thinking
 - Phase2: Innovation (Filler)
-- Phase3: Development Part 1 (Data Prepocess)
+- Phase3: Development Part 1 (Data Preprocess)
 - Phase4: Development Part 2 (Analysis, Visualization and Model)
 - Phase5: Project Documentation & Submission
 
